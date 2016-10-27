@@ -1,0 +1,6 @@
+
+# site is built in _site:
+_site
+
+# data on which files haven't been modified since last build so don't require re-building:
+# _jekyll-metadata
